@@ -1,5 +1,5 @@
 ---
-title: "V Review (2022)"
+title: "V Language Review (2022)"
 ---
 
 [V](https://vlang.io/) is a programming language promising to be "Simple, fast, safe, compiled. For developing maintainable software."
